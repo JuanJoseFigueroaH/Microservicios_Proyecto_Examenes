@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Curso_Microservicios_SpringBoot_Angular_Educativo\Backend_Microservicios\.metadata\.plugins\org.eclipse.jdt.core
