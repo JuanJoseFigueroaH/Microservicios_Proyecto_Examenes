@@ -1,0 +1,5 @@
+package com.microservicios.app.usuarios.controllers;
+
+public class AlumnoController {
+
+}
